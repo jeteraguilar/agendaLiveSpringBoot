@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="858e25ab-3bae-43a5-87c3-ba9bb92a670a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iT4seO2SVkgeL25mi1gmcMwua6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="858e25ab-3bae-43a5-87c3-ba9bb92a670a" name="Default Changelist" comment="" />
+      <created>1601918455221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601918455221</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1786" y="113" key="FileChooserDialogImpl" timestamp="1602252073051">
+      <screen x="1366" y="-134" width="1280" height="984" />
+    </state>
+    <state x="1786" y="113" key="FileChooserDialogImpl/0.0.1366.728/1366.-134.1280.984@1366.-134.1280.984" timestamp="1602252073051" />
+    <state x="1671" y="62" key="NewModule_or_Project.wizard" timestamp="1601927845522">
+      <screen x="1366" y="-134" width="1280" height="984" />
+    </state>
+    <state x="1671" y="62" key="NewModule_or_Project.wizard/0.0.1366.728/1366.-134.1280.984@1366.-134.1280.984" timestamp="1601927845522" />
+    <state x="1388" y="41" key="new project wizard" timestamp="1601928728018">
+      <screen x="1366" y="-134" width="1280" height="984" />
+    </state>
+    <state x="1388" y="41" key="new project wizard/0.0.1366.728/1366.-134.1280.984@1366.-134.1280.984" timestamp="1601928728018" />
+    <state x="1669" y="77" width="672" height="678" key="search.everywhere.popup" timestamp="1601927801510">
+      <screen x="1366" y="-134" width="1280" height="984" />
+    </state>
+    <state x="1669" y="77" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.-134.1280.984@1366.-134.1280.984" timestamp="1601927801510" />
+  </component>
+</project>
